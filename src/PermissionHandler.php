@@ -1,6 +1,6 @@
 <?php
 
-namespace \Openclerk\Permissions;
+namespace Openclerk\Permissions;
 
 interface PermissionHandler {
 

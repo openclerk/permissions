@@ -1,5 +1,5 @@
 <?php
 
-namespace \Openclerk\Permissions;
+namespace Openclerk\Permissions;
 
 class NoPermissionException extends \Exception { }
